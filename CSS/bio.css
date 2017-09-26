@@ -1,0 +1,19 @@
+cite{
+    display: block;
+    font-style: italic;
+    float: right;
+}
+.citacao-bio{
+    background-color: #D9E5E3;
+    border: 10px solid #C2CCCA;
+    width: 250px;
+    margin: 0px 40px 20px 40px; 
+    box-sizing: border-box;
+    padding: 20px;
+}
+.fiat-depoimentos{
+    float: right;
+}
+.petro-depoimentos{
+    float: left;
+}

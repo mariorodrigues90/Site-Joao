@@ -1,0 +1,13 @@
+.artigos{
+    border-bottom: 1px solid #CCC;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+}
+.leia{
+    font-size: 24px;
+    padding: 8px;
+    margin-bottom: 16px;
+    background-color: #E6E7E8;
+    display: block;
+    text-align: center;
+}

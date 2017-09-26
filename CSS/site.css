@@ -1,0 +1,118 @@
+body{
+    background-color: #F2FFFC;
+    font-family: "Crimson Text", "Times New Roman", serif;
+    line-height: 1.5;
+}
+main{
+    float: left;
+    width: 85%;
+}
+main a{
+    color: #851944;
+}
+h2{
+    font-size: 30px;
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+    clear: both;
+}
+p{
+    text-align:justify;
+    margin: 20px 0;
+}
+strong{
+    font-weight: bold;
+}
+em{
+    font-style: italic;
+}
+aside{
+    position: fixed;
+    width: 13,5%;
+    top: 270px;
+    right: 0px;
+}
+aside, .foto-eu{
+    float: right;
+    border-bottom: 10px solid black;
+    border-left: 10px solid black;
+    box-sizing: border-box;
+}
+.titulo-principal{
+    font-size: 60px;
+    background-color:#851944;
+    color:#FAFFFA;
+    text-align: center;
+    padding: 25px;
+    margin: 0px;
+    border-bottom: 10px solid black;
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+    text-transform: uppercase;
+}
+.conteudo{
+    width: 720px;
+    margin: 0 auto;
+    padding: 40px 0;
+    padding-bottom: 80px;
+}
+.foto-eu{
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    width: 270px;
+    height: 270px;
+}
+.navegacao{
+    background-color: #3C1D3D;
+    text-align: center;
+    color: #F2FFFC;
+    padding: 20px;
+    margin: 0;
+}
+.titulo-navegacao{
+    text-transform: uppercase;
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+    font-size: 30px;
+    margin-bottom: 25px;
+    margin-top: 0;
+    text-align: center;
+    display: block;
+}
+.navegacao ul{
+    margin: 0;
+    padding: 0;
+}
+.navegacao a{
+    color: inherit;
+    font-family: "Open Sans Condensed", sans-serif;
+    text-transform: lowercase;
+}
+.navegacao li{
+    list-style-type: none;
+}
+.icones-sociais li{
+    display: inline-block;
+}
+.icones-sociais a{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    text-indent: -9999px;
+}
+.github{
+    background-image: url(../img/github.png);
+}
+.twitter{
+    background-image: url(../img/twitter.png);
+}
+.linkedin{
+    background-image: url(../img/linkedin.png);
+}
+.rodape{
+    background-color: black;
+    color: #F2FFFC;
+    padding: 20px;
+    clear: both;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
